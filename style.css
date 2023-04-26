@@ -1,0 +1,32 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.texto1 {
+    margin:25px;
+    border: 10px solid rgba(202, 16, 231, 0.697);
+    border-radius: 35px;
+    max-width: 30%;
+    justify-content: center;
+    display: flex;
+    
+}
+.valor1 {
+    margin-left: 5%;
+    border: 3px solid  rgba(202, 16, 231, 0.697);
+    border-radius: 15px;
+    max-width: 20%;
+    display: flex;
+    justify-content: center;
+}
+strong{
+    font-size: 18px;
+}    
+html{
+    background: rgb(26,9,47);
+    background: linear-gradient(90deg, rgba(26,9,47,0.9304096638655462) 2%, rgba(101,9,138,1) 15%, rgba(24,4,24,0.8883928571428571) 40%);
+}
+
+ul{
+    margin-left: 5%;
+    margin: 40px;
+}
